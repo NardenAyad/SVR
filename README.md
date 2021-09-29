@@ -1,4 +1,4 @@
-# Find the best c in Support Vector Regression using Grid Search in breast cancer data set 
+# Implement Support Vector Regression and finding the best c using Grid Search in breast cancer data set 
 
 ## Dependencies
 
